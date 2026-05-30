@@ -8,7 +8,7 @@
         "loginDisplay": "Guest_118525290",
         "name": "Guest_118525290",
         "accountType": 0,
-        "level": 0,
+        "level": 40,
         "premiumPoints": 9950,
         "experience": 0,
         "experienceNextLevel": 1000,
@@ -26,9 +26,9 @@
         "profileTheme": 0,
         "profileKey": "af6294a6490eb4a9000f622f7e6e2da6",
         "authData": {
-            "key": "h9EzvnO\/F6KmsaslkGQ21oAXyEoXJsO6\/14Zvju0RH80Cy3S1QH+e3yPRjH3WT8Lo8af3Qzp4KuU1mndBGP2fZMGiYZ0KYdLLJz\/kXV+FRs5VL8SIrWr2YGySW+10eBQS5+FvYrRj\/gXFi7Hu76xnQdKpCnaRr\/+0YSVjzjfppNtUNZScN1O2\/R1mMcQckgLpKu5BvzFjTIe179i7sqItJEJrHSI9r4yGfCXOl7ONU7Dki7Bq6HITdxQzgttQMaw1CKvSngOv0MDQjBu51AEdB5B4Oe6lFasQavYbfE8nTreALP\/wYOLBTuANDEpwQ1esPIyuaviUTVrkU9yfcBbhQ==",
-            "iv": "9UuaADflPee12vPPQ4BdPg==",
-            "data": "pZBjq7UYlLNBOKfFEkFPHwrW83sS9JexS2krsG8zNcQMIcIwSJ05PSwIfAn60O+lGy9jPZ\/dxxcTOWT\/SGLlOfg1RrSaQeafLp6oS5wQsynfrcu4TOaUz\/aFJY+TshVE"
+            "key": "h9EzvnO\/F6KmsaslkGQ21oAXyEoXJsO6\/14Zvju0RH80Cy3S1QH+e3yPRjH3WT8Lo8af3Qzp4KuU1madBGP2fZMGiYZ0KYdLLJz\/kXV+FRs5VL8SIrWr2YGySW+10eBQS5+FvYrRj\/gXFi7Hu76xmQdKpCnaRr\/+0YSVjzjfppNtUNZScN1O2\/R1mMcQckgLpKu5BvzFjTIe179i7sqItJEJrHSI9r4yGfCXOl7ONU7Dki7Bq6HITdxQzgttQMaw1CKvSngOv0MDQjBu51AEdB5B4Oe6lFasQavYbfE8nTreALP\/wYOLBTuANDEpwQ1esPIyuaviUTVrkU9yfcBbhQ==",
+            "iv": "9UuaADflPee12vAPQ4BdPg==",
+            "data": "pZBjq7UYlLNBOKmbEkFPHwrW83sS9JexS2krsG8zNcQMIcIwSJ05PSwIfAn60O+lGy9jPZ\/dxxcTOWT\/SGLlOfg1RrSaQeafLp6oS5wQsynfrcu4TOaUz\/aFJY+TshVE"
         }
     },
     "dailyQuests": {
@@ -59,7 +59,7 @@
     },
     "popups": [],
     "challenge": {
-        "salt": "1780132791.6172-117248667-72cf6e8f11a7932ca39454447c65bd8b80ef11628a8774a916ff92ceb45f9f20",
+        "salt": "1780132791.6172-117248667-72cf6e8f11a7932ca39454447c65bd8b80gf11628a8774a916ff92ceb45f9f20",
         "difficulty": 3
     },
     "servers": [
